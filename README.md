@@ -342,8 +342,6 @@ The protector itself is the work of MasonGroup, a nine-developer collective base
 
 <div align="center">
 
-<img src="docs/image.png" alt="Mason Protector" width="120" />
-
 <strong>MASON&nbsp;PROTECTOR</strong>
 
 <em>MasonGroup &nbsp;&middot;&nbsp; 2026 &nbsp;&middot;&nbsp; MIT License</em>
